@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 ## IDE and Tools:
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> ![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Carmel-Abigail-Shirley-Royan&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
