@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## IDE and Tools:
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
- <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" />
+         <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" />
 
 
 ## GitHub Stats:
