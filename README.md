@@ -4,6 +4,9 @@
 **Carmel-Abigail-Shirley-Royan/Carmel-Abigail-Shirley-Royan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)  
+
+  ![](https://nirzak-streak-stats.vercel.app/?user=Carmel-Abigail-Shirley-Royan&theme=dark&hide_border=false)<br/>
+
 Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning Web Development 
@@ -25,7 +28,6 @@ Here are some ideas to get you started:
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Carmel-Abigail-Shirley-Royan&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Carmel-Abigail-Shirley-Royan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmel-Abigail-Shirley-Royan&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
