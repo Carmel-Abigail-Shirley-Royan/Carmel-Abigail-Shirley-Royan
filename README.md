@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Carmel
+# Hi there 👋, I'm Carmel
 
 <!--
 **Carmel-Abigail-Shirley-Royan/Carmel-Abigail-Shirley-Royan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
